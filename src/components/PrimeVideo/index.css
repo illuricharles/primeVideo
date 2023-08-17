@@ -1,0 +1,34 @@
+.prime-video-image {
+  width: 100%;
+  height: 180px;
+}
+
+.prime-video-container {
+  background-color: black;
+  min-height: 100vh;
+}
+
+.heading {
+  color: white;
+}
+
+.bottom-section {
+  padding: 30px;
+}
+
+.slider-container {
+  width: 100%;
+  color: white;
+  margin-bottom: 60px;
+}
+
+ul {
+  margin: 0px;
+  padding: 0px;
+}
+
+li {
+  margin: 0px;
+  padding: 0px;
+  list-style-type: none;
+}

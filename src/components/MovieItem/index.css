@@ -1,0 +1,27 @@
+.trigger-button {
+  cursor: pointer;
+  padding: 0px;
+  background-color: transparent;
+  border: 0px;
+  outline: none;
+}
+
+.close-button-container {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.video-container {
+  height: 480px;
+  padding: 20px;
+  padding-bottom: 10px;
+}
+
+.close-button {
+  height: 20px;
+  width: 20px;
+}
+
+.responsive-container {
+  margin-top: 30px;
+}
